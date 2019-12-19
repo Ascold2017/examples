@@ -1,5 +1,5 @@
-# examples
-Examples of my projects
+# Examples
+Примеры моих проектов
 
 https://github.com/Ascold2017/venbest-test
 - клиент-серверное приложение на Node.js. Обменивается сообщениями через ZeroMQ.
