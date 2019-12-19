@@ -1,6 +1,21 @@
 # examples
 Examples of my projects
 
+https://github.com/Ascold2017/venbest-test
+- клиент-серверное приложение на Node.js. Обменивается сообщениями через ZeroMQ.
+
+https://github.com/Ascold2017/node-web-scrapping
+- Парсер на Node.js. Парсит ленту новостей сайта tproger.ru.
+
+https://github.com/Ascold2017/polyfill-server
+- Сервер javascript-полифиллов на Node.js. Определяет браузер, с которого послан запрос, и сопостовляя его название и версию со своей таблицей собирает бандл из полифиллов и высылает его на клиент.
+
+https://github.com/Ascold2017/loftschool-nodejs-project
+- Frontend и Backend часть учебного веб-приложения. Frontend выполнен на React.js, Back на Node.js. Выполнен в рамках курса Loftschool "Node.js - серверный Javascript".
+
+https://gitlab.com/Ascold2017/loftschool-advanced
+- Frontend-часть сайта портфолио. Выполнен в рамках курса Loftschool "Веб-разработка для продвинутых". Ссылка для просмотра: https://test-app-advanced.herokuapp.com/
+
 https://github.com/Ascold2017/js-complex-form-example
 - пример сложных веб-форм на чистом js. Веб-формы представляют собой текстовые поля. Они могу быть обычными (1 строковое значение), множественными (можно добавлять значения как в список). Также эти два вида веб-форм могут быть обьеденены в общую группу или множественную группу. Структура и порядок полей произвольный. Структура данных веб-форм приходит с сервера (data.json для примера) по спецификации json:api
 
@@ -47,27 +62,3 @@ https://github.com/Ascold2017/infonews-server
 
 https://github.com/Ascold2017/infonews-admin
 - Vue-приложение. Админка для новостного блога
-
-https://github.com/Ascold2017/CBS-client
- - Vue-приложение. Пример интернет-магазина компьютерных комплектующих и сборок ПК, с фильтрами и конструктором сборок.
-
-https://github.com/Ascold2017/CBS
-- Node.js сервер для интернет-магазина компьютерных комплектующих
-
-https://github.com/Ascold2017/VLA-Vue
-- Vue-приложение. Админка сайта для отдела академии.
-
-https://github.com/Ascold2017/VLA-Server
-- Node.js сервер для сайта отдела академии.
-
-https://github.com/Ascold2017/VLA-HTML
-- Шаблон страницы сайта отдела академии. Особенности - использование Vue компонента в странице (таблица)
-
-https://github.com/Ascold2017/loftschool-project
-- Выпускной проект курса "Веб-разработка для продвинутых" (Loftschool). Верстка
-
-https://github.com/Ascold2017/loftschool-server
-- Выпускной проект курса "Веб-разработка для продвинутых" (Loftschool). Сервер
-
-https://github.com/Ascold2017/ascold-admin
-- Выпускной проект курса "Веб-разработка для продвинутых" (Loftschool). Админка
