@@ -28,6 +28,9 @@ https://github.com/Ascold2017/file-storage
 https://github.com/Ascold2017/node-security-clustering
 - пример использования кластеризации и приемов обеспечения безопасности на Express.
 
+https://github.com/Ascold2017/todo-app
+- тестовое Vue.js приложение. TODO-лист
+
 https://github.com/Ascold2017/console-timetracker-client
 - пример консольного приложения на Node.js. Простой таймтрекер с функциями авторизации, выбора таска, его запуска/остановки и получение отчета по времени работы над тасками
 
