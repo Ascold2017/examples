@@ -1,6 +1,9 @@
 # Examples
 Примеры моих проектов
 
+https://github.com/Ascold2017/armsoon-test
+- тестовое Vue.js приложение. Работа со сторонним API (bitmex), обновление данных в realtime с помощью websocket. Для стилизации использован bootstrap-vue
+
 https://github.com/Ascold2017/venbest-test
 - клиент-серверное приложение на Node.js. Обменивается сообщениями через ZeroMQ.
 
