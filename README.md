@@ -1,6 +1,9 @@
 # Examples
 Примеры моих проектов
 
+https://github.com/Ascold2017/citrus-test
+- тестовое Nuxt.js приложение. Настраиваемая лента пользователей с пагинацией и подгрузкой (API: https://randomuser.me/)
+
 https://github.com/Ascold2017/armsoon-test
 - тестовое Vue.js приложение. Работа со сторонним API (bitmex), обновление данных в realtime с помощью websocket. Для стилизации использован bootstrap-vue
 
